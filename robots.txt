@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://saharahmed76-svg.github.io/sitemap.xml

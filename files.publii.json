@@ -1,0 +1,227 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "197d7edb9720afa5c9933a3ec0a5d9d4"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/mrw",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/mrw/index.html",
+        "type": "file",
+        "md5": "f56d35478b248978d35cc45691897349"
+    },
+    {
+        "path": "best-way-to-learn-quran-online-a-journey-toward-knowledge-and-faith",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/best-way-to-learn-quran-online-a-journey-toward-knowledge-and-faith/index.html",
+        "type": "file",
+        "md5": "981fc76ca064f0a44986561f251c6dbb"
+    },
+    {
+        "path": "best-way-to-learn-quran-online-your-guide-to-a-spiritual-and-easy-learning-journey",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/best-way-to-learn-quran-online-your-guide-to-a-spiritual-and-easy-learning-journey/index.html",
+        "type": "file",
+        "md5": "74e579912277caae3cf985ca306cf17b"
+    },
+    {
+        "path": "best-website-to-learn-quran-online-free-unlocking-the-path-to-knowledge-and-faith",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/best-website-to-learn-quran-online-free-unlocking-the-path-to-knowledge-and-faith/index.html",
+        "type": "file",
+        "md5": "e7316b44a32208e7c5667ae8c67609d5"
+    },
+    {
+        "path": "best-website-to-learn-quran-online-free-your-complete-2025-guide",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/best-website-to-learn-quran-online-free-your-complete-2025-guide/index.html",
+        "type": "file",
+        "md5": "4fa07a363f62c150bfe63d908b76b64f"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "c3d431d1a5ae817dd2ee5dca8ffbc7e9"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "d5ca324e9fd6534dca536fd74793fd89"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "36975a804bc43e5f154f2115f2120916"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/tfsyr-2xl.png",
+        "type": "file",
+        "md5": "732eecabb4376316ad6baf1dd104ef45"
+    },
+    {
+        "path": "/media/website/responsive/tfsyr-lg.png",
+        "type": "file",
+        "md5": "732eecabb4376316ad6baf1dd104ef45"
+    },
+    {
+        "path": "/media/website/responsive/tfsyr-md.png",
+        "type": "file",
+        "md5": "732eecabb4376316ad6baf1dd104ef45"
+    },
+    {
+        "path": "/media/website/responsive/tfsyr-sm.png",
+        "type": "file",
+        "md5": "732eecabb4376316ad6baf1dd104ef45"
+    },
+    {
+        "path": "/media/website/responsive/tfsyr-xl.png",
+        "type": "file",
+        "md5": "732eecabb4376316ad6baf1dd104ef45"
+    },
+    {
+        "path": "/media/website/responsive/tfsyr-xs.png",
+        "type": "file",
+        "md5": "732eecabb4376316ad6baf1dd104ef45"
+    },
+    {
+        "path": "/media/website/tfsyr.png",
+        "type": "file",
+        "md5": "f5e51629f7c1b609a188d7b9e37df777"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "01263376ce07a01947b2a820eeed93b9"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "979c2a68897ba9f10a98c0f6c47ef7eb"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "de8acbe4c7e22358869581a3c027076e"
+    },
+    {
+        "path": "the-best-way-to-learn-quran-online-a-complete-guide-for-every-muslim",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/the-best-way-to-learn-quran-online-a-complete-guide-for-every-muslim/index.html",
+        "type": "file",
+        "md5": "0dfd2f50a4483570a75932a26d890075"
+    }
+]
